@@ -100,7 +100,9 @@ quantity
 amount
 
  (double): Valor do pedido
-- **Resposta**:
+  - 
+
+## RESPSOSTA
   - `200 OK`: Pedido realizado com sucesso
   - `400 Bad Request`: Erro na validação do pedido
 
