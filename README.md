@@ -65,8 +65,8 @@ VALUES
 (1, 'Fulado'), 
 (2, 'Ciclano'),
 (3, 'Bentrano');
-
 ```
+
 ```sql
 use facade_example;
 INSERT INTO inventory (product_id, stock)
@@ -74,7 +74,6 @@ VALUES
 (1, 100), 
 (2, 1000),
 (3, 10000);
-
 ```
 
 ## Endpoints
@@ -82,7 +81,6 @@ VALUES
 - **URL**: `/orders/place`
 - **Método**: `POST`
 - **Parâmetros**:
-  - 
 
 customerId
 
@@ -112,5 +110,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Licença
 Este projeto está licenciado sob a Licença Apache 2.0. Veja o arquivo `LICENSE` para mais detalhes.
-```
-
